@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240147431805",
+    "project_id": "charger-flutter-42c35",
+    "storage_bucket": "charger-flutter-42c35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240147431805:android:7356b22e4e8373e6650c14",
+        "android_client_info": {
+          "package_name": "com.example.chargerrr_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8p3Jprnev-yQ6vMoF6bMLkGgEzGdOOEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

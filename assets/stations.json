@@ -1,0 +1,22 @@
+[
+{
+"id": "station-1",
+"name": "Tata Power EZ Charge",
+"address": "Connaught Place, New Delhi, Delhi 110001",
+"latitude": 28.6324,
+"longitude": 77.2187,
+"available_points": 3,
+"total_points": 5,
+"amenities": ["wifi", "restroom", "cafe"]
+},
+{
+"id": "station-2",
+"name": "Statiq EV Charging",
+"address": "Koramangala, Bengaluru, Karnataka 560034",
+"latitude": 12.9352,
+"longitude": 77.6245,
+"available_points": 4,
+"total_points": 4,
+"amenities": ["wifi", "food_court"]
+}
+]
