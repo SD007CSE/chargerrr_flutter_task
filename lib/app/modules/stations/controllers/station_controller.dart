@@ -22,7 +22,6 @@ class StationController extends GetxController {
     checkPermission();
   }
 
-  // 🔹 Fetch all stations from Firestore
   Future<void> fetchStations() async {
     try {
       isLoading(true);
@@ -37,8 +36,6 @@ class StationController extends GetxController {
       isLoading(false);
     }
   }
-
-  // 🔹 Check location permission
   Future<void> checkPermission() async {
     final status = await Permission.location.status;
 
@@ -55,9 +52,6 @@ class StationController extends GetxController {
   }
 
   Future<void> logout() async {
-    // Implement logout logic here
-    // For example, clear user session, tokens, etc.
-    // After logout, navigate to the login screen
     await auth.signOut();
     Get.offAllNamed('/login');
   }
