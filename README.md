@@ -1,7 +1,7 @@
 
 # Flutter EV Station App
 
-A simple EV charger-finding application where the locations of charging stations are displayed, directions are provided from the user's current location to the stations, and new stations can be added to the application.
+A simple EV charger-finding application using Flutter, Firebase and for state management GetX where the locations of charging stations are displayed, directions are provided from the user's current location to the stations, and new stations can be added to the application.
 
 ## Documentation
 
