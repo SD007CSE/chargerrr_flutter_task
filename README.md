@@ -8,7 +8,7 @@ A simple EV charger-finding application where the locations of charging stations
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/SD007CSE/chargerrr_flutter_task.git)
 ```
 
 Install dependencies
