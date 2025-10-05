@@ -26,7 +26,6 @@ Start the app
 
 For Code Design, I have used the following pattern
 ```bash
-main.dart
 \lib
     \app
         \bindings
